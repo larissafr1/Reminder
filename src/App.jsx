@@ -102,7 +102,7 @@ function App() {
         ))}
       </div>
       <div className="img-container">
-        <img src="./src/img/end.png" alt="ilustração de uma garota riscando um X em seu calendário"/>
+        <img src="./img/end.png" alt="ilustração de uma garota riscando um X em seu calendário"/>
       </div>
     </div>
   );
